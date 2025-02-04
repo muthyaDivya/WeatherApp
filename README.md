@@ -19,7 +19,7 @@ Error Handling: Custom error handling using KeyError
 │── weather_app.py        # Main Python script for weather functionality
 │── README.md             # Project documentation
 
-# Installation & Setup
+# Installation & Output
     1. Clone the repository
     2. Run the application:
           python weather_app.py
